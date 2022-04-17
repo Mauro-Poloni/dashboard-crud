@@ -9,3 +9,7 @@ Pasos para instalar:
 2-Composer install
 <br>
 3-php artisan migrate
+<br>
+4-php artisan serve
+<br>
+5-Registrarse
